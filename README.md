@@ -8,7 +8,7 @@ PersonalBazarApp: Permite al personal del bazar generar informes de seguridad.
 ServidorCentral: Registra incidentes, genera informes y gestiona la capacitación en seguridad.
 Tecnologías Utilizadas
 Java 11: Lenguaje de programación utilizado para desarrollar el sistema.
-NetBeans IDE 12.5: Entorno de desarrollo integrado utilizado para escribir, compilar y depurar el código.
+NetBeans IDE 15: Entorno de desarrollo integrado utilizado para escribir, compilar y depurar el código.
 Git y GitHub: Sistema de control de versiones distribuido y plataforma de desarrollo colaborativo utilizados para gestionar el código fuente y colaborar en el proyecto.
 Uso
 Clona este repositorio en tu máquina local.
